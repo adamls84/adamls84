@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Adam!
+I'm studying Cybersecurity at TAFE SA while balancing work in the construction industry.
 
-<!--
-**adamls84/adamls84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🤳 Connect with me:</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/adamlstanley/
+
+<br/> <h2> Objective:</h2>
+I am documenting my journey as I complete my Certificate 4 in Cyber Security at TafeSA and any other learning experiences or projects I undertake along the way.
